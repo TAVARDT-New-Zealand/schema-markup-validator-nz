@@ -1,4 +1,4 @@
-# Schema Markup and Structured Data Validator | TAVARDT New Zealand
+# Schema Markup and Structured Data Validator
 
 [![Schema Validator](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/nz/schema-markup-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ For web-based testing and real-time schema evaluation:
 ## New Zealand Digital Architecture Advisory
 
 For structured data implementation and technical compliance with NZ Web Standards and W3C Specifications, contact **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
