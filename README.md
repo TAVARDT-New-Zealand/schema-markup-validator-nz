@@ -5,7 +5,7 @@
 
 Independent structured data validator for New Zealand websites, auditing Schema.org markup, semantic tagging, and search engine entity recognition.
 
-Engineered and maintained by the digital integrity and search architecture practice at **TAVARDT New Zealand**.
+Engineered and maintained by the digital integrity and search architecture practice at **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python schema_validator.py example.co.nz -json
 For web-based testing and real-time schema evaluation:
 
 * **Official Schema Markup Validator**
-* **TAVARDT New Zealand Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## New Zealand Digital Architecture Advisory
 
-For structured data implementation and technical compliance with NZ Web Standards and W3C Specifications, contact **TAVARDT New Zealand**.
+For structured data implementation and technical compliance with NZ Web Standards and W3C Specifications, contact **TAVARDT**.
 
 ***
 
